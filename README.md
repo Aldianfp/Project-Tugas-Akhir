@@ -3,7 +3,6 @@
 -   Register
 -   Login
 -   Edit Profile
--   Manajemen Role
 -   Manajemen Permission
 -   Manajemen User
 
